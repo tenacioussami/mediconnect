@@ -1,4 +1,4 @@
-# 🩺 MediConnect — Smart Telemedicine & Healthcare System
+# 🩺 ShasthoSheba — Smart Telemedicine & Healthcare System
 ### IUB Final Project · Md Farhan Hossain Sami (ID: 2310717) · Section 05
 
 ---
